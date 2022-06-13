@@ -14,7 +14,7 @@ I wanted to document experiences and knowledge gained throughout my journey in t
 <img alt="Architecture" src="architecture.png"/>
 
 ### __Bicep Visualisation__
-<img alt="Bicep Visualisation" src="bicep.png"/>
+<img alt="Bicep Visualisation" src="bicep.PNG"/>
 
 ## __Setup Instruction__
 1. run `az login`
